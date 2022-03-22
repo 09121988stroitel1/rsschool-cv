@@ -8,7 +8,7 @@ ____
 * phone: +375292484260
 * Email: lekha.gazov@yandex.ru
 * Discord: Aleksei(09121988stroitel1)#7874
-* GitHub: [09121988stroitel1] (https://github.com/09121988stroitel1)
+* GitHub: [Aleksei](https://github.com/09121988stroitel1)
 ____
 ### About Me:
 
