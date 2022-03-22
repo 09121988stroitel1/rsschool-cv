@@ -4,5 +4,7 @@
 
 ### Contact:
 
+* Location: Mogilev, Belarus
 * phone: +375292484260
+
 
