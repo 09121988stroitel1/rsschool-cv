@@ -2,5 +2,7 @@
 
 ### Junior Frontend Developer
 
-### Contact
+### Contact:
+
+* phone: +375292484260
 
