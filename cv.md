@@ -22,6 +22,10 @@ ____
 * Git, GitHub
 * VS Code
 * Adobe Photoshop (Basic)
+* node.js
+* Figma
+* webpack
+* основы typescript
 ____
 ### Code Example:
 *Add up all the numbers that are below the main diagonal of the matrix. The input of the function is a two-dimensional array (array of matrix rows) containing numbers. Find the sum of the numbers below the main diagonal.*
